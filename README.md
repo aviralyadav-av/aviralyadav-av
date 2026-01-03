@@ -115,7 +115,38 @@ I believe in waking up each day eager to make a difference!</p>
 *Click the badge above to dive into my portfolio and see what I've been building* 🚀
 
 </div>
+<div align="center">
 
+## 💬 Let's Connect
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📝 Leave a Review</h3>
+      <p>Share your thoughts and feedback in my guestbook</p>
+      <a href="https://www.aviralyadav.dev/guestBook" target="_blank">
+        <img src="https://img.shields.io/badge/Sign%20My%20Guestbook-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Guestbook"/>
+      </a>
+      <br/><br/>
+      <sub>⭐ Your feedback matters!</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>📧 Get in Touch</h3>
+      <p>Have a project idea? Let's collaborate!</p>
+      <a href="https://www.aviralyadav.dev/contact" target="_blank">
+        <img src="https://img.shields.io/badge/Contact%20Me-4ECDC4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact"/>
+      </a>
+      <br/><br/>
+      <sub>💡 Always open to new opportunities</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator"/>
+
+### 🤝 Don't be shy, drop a message or leave a review!
+
+</div>
 ---
 </div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
