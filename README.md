@@ -51,9 +51,7 @@ I believe in waking up each day eager to make a difference!</p>
 
 </ul>
 
-## ⚡ Technologies
-# Tech Stack
-
+## ⚡ Technologies  
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -92,5 +90,33 @@ I believe in waking up each day eager to make a difference!</p>
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat-square&logo=googlesearchconsole&logoColor=white)
+<div align="center">
+
+## 👨‍💻  Hey there! I'm Aviral Yadav 👋
+
+
+<img src="https://www.aviralyadav.dev/av.jpg" alt="Aviral Yadav" width="100" style="border-radius: 50%; border: 3px solid #4A90E2;"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Portfolio
+
+<a href="https://www.aviralyadav.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+**✨ Explore my work, projects, and skills!**
+
+📍 **[www.aviralyadav.dev](https://www.aviralyadav.dev)**
+
+*Click the badge above to dive into my portfolio and see what I've been building* 🚀
 
 </div>
+
+---
+</div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
