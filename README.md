@@ -1,4 +1,4 @@
-## Hey, I'm <a href="https://www.aviralyadav.dev">Aviral</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h2>  
+## Hey, I'm <a href="https://www.aviral.com">Aviral</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h2>  
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <p>I'm Aviral Yadav, a proactive full-stack developer passionate about creating dynamic web experiences. From frontend to backend, I thrive on solving complex problems with clean, efficient code. My expertise spans <strong><a href="https://react.dev/">React</a></strong>, <strong><a href="https://nextjs.org/">Next.js</a></strong>, and <strong><a href="https://nodejs.org/en">Node.js</a></strong>, and I'm always eager to learn more.
@@ -7,7 +7,7 @@ I believe in waking up each day eager to make a difference!</p>
 
 <p>
   <!-- Portfolio -->
-<a href="https://aviralyadav.dev"> <img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&logoColor=white" alt="Portfolio Badge"> </a>
+<a href="https://aviral.com"> <img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&logoColor=white" alt="Portfolio Badge"> </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aviralyadav-av">
@@ -45,7 +45,7 @@ I believe in waking up each day eager to make a difference!</p>
 
 <li>💬 Feel free to ping me about <strong>React, Next.js, Node.js, APIs, frontend architecture</strong>, or anything web-related.</li>
 
-<li>📙 You can check out my <a href="https://aviralyadav.dev">portfolio</a> to explore my work, skills, and experience.</li>
+<li>📙 You can check out my <a href="https://aviral.com">portfolio</a> to explore my work, skills, and experience.</li>
 
 <li>🎉 Fun Fact: I believe in learning something new every day and waking up motivated to make a difference.</li>
 
@@ -95,7 +95,7 @@ I believe in waking up each day eager to make a difference!</p>
 ## 👨‍💻  Hey there! I'm Aviral Yadav 👋
 
 
-<img src="https://www.aviralyadav.dev/av.jpg" alt="Aviral Yadav" width="100" style="border-radius: 50%; border: 3px solid #4A90E2;"/>
+<img src="https://www.aviral.com/av.jpg" alt="Aviral Yadav" width="100" style="border-radius: 50%; border: 3px solid #4A90E2;"/>
 </div>
 
 ---
@@ -104,13 +104,13 @@ I believe in waking up each day eager to make a difference!</p>
 
 ## 🌐 Portfolio
 
-<a href="https://www.aviralyadav.dev" target="_blank">
+<a href="https://www.aviral.com" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 **✨ Explore my work, projects, and skills!**
 
-📍 **[www.aviralyadav.dev](https://www.aviralyadav.dev)**
+📍 **[www.aviral.com](https://www.aviral.com)**
 
 *Click the badge above to dive into my portfolio and see what I've been building* 🚀
 
@@ -124,7 +124,7 @@ I believe in waking up each day eager to make a difference!</p>
     <td align="center" width="50%">
       <h3>📝 Leave a Review</h3>
       <p>Share your thoughts and feedback in my guestbook</p>
-      <a href="https://www.aviralyadav.dev/guestBook" target="_blank">
+      <a href="https://www.aviral.com/guestBook" target="_blank">
         <img src="https://img.shields.io/badge/Sign%20My%20Guestbook-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Guestbook"/>
       </a>
       <br/><br/>
@@ -133,7 +133,7 @@ I believe in waking up each day eager to make a difference!</p>
     <td align="center" width="50%">
       <h3>📧 Get in Touch</h3>
       <p>Have a project idea? Let's collaborate!</p>
-      <a href="https://www.aviralyadav.dev/contact" target="_blank">
+      <a href="https://www.aviral.com/contact" target="_blank">
         <img src="https://img.shields.io/badge/Contact%20Me-4ECDC4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact"/>
       </a>
       <br/><br/>
